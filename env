@@ -1,0 +1,4 @@
+# Replace the '00000000000000000000000' here with the exchange rate API private key obtained from Abstract
+# Rename this file to .env
+# The software should now be ready to use 
+api_key: 00000000000000000000000
